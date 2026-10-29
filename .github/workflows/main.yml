@@ -32,10 +32,13 @@ jobs:
       - name: Install Android platform and build tools
         run: sdkmanager "platforms;android-36" "build-tools;36.0.0"
 
-      - name: Build SN TEKKEN 4 APK
-        run: |
-          chmod +x gradlew
-          ./gradlew --no-daemon assembleDebug
+      - - name: Install Gradle 9.3.1
+  uses: gradle/actions/setup-gradle@v4
+  with:
+    gradle-version: '9.3.1'
+
+- name: Build SN TEKKEN 4 APK
+  run: gradle --no-daemon assembleDebug 
 
       - name: Save APK for download
         uses: actions/upload-artifact@v4
