@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SN TEKKEN</string>
+    <string name="game_subtitle">ANIMAL WARRIORS</string>
+    <string name="btn_play_campaign">PLAY CAMPAIGN</string>
+    <string name="btn_fighter_roster">FIGHTER ROSTER</string>
+    <string name="btn_settings">SETTINGS</string>
+    <string name="btn_return_menu">MAIN MENU</string>
+    <string name="btn_next_fight">NEXT FIGHT</string>
+    <string name="btn_rematch">REMATCH</string>
+    <string name="btn_resume">RESUME</string>
+    <string name="fighter_shadow_tiger">SHADOW TIGER</string>
+    <string name="fighter_iron_buffalo">IRON BUFFALO</string>
+    <string name="boss_dragon">INFERNO DRAGON</string>
+    <string name="ctrl_punch">PUNCH</string>
+    <string name="ctrl_kick">KICK</string>
+    <string name="ctrl_block">BLOCK</string>
+    <string name="ctrl_special">SPECIAL</string>
+    <string name="ctrl_dodge">DODGE</string>
+    <string name="label_victory">VICTORY</string>
+    <string name="label_defeat">DEFEAT</string>
+    <string name="label_campaign_complete">CHAMPION OF THE ARENA</string>
+    <string name="settings_title">ARENA SETTINGS</string>
+    <string name="settings_sfx">Sound Effects</string>
+    <string name="settings_music">Combat &amp; Menu Music</string>
+    <string name="settings_graphics">Graphics Quality</string>
+    <string name="settings_camera">Camera Sensitivity</string>
+    <string name="settings_control_size">Combat Button Scale</string>
+    <string name="settings_dev_unlock">Developer Stage Test Mode</string>
+    <string name="roster_title">PLAYABLE ANIMAL WARRIORS</string>
+    <string name="roster_subtitle">2 Playable Martial Champions • Drag 3D Viewport to Rotate</string>
+    <string name="cd_sound_toggle">Toggle sound effects</string>
+    <string name="cd_pause_game">Pause fight</string>
+    <string name="cd_fighter_portrait">Fighter portrait</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "SN TEKKEN",
+  "description": "SN TEKKEN: Animal Warriors — Premium 3D offline arcade animal fighting game featuring Shadow Tiger, Iron Buffalo, and an epic 3-fight campaign culminating against the Dragon Boss.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
